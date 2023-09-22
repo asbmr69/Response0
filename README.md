@@ -9,7 +9,7 @@ Then activate venv in the command prompt by entering-<br>
       ```venv\Scripts\activate.bat```<br>
       this will activate venv in your terminal.<br>
 Now in venv install Django.<br>
-      ```python pip install django```<br>
+      ``` pip install django```<br>
     then navigate your terminal to ```\\src\response_search ``` folder.<br>
 Then to check your setup run the command-<br>
       ```python manage.py runserver```
