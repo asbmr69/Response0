@@ -4,7 +4,7 @@ This is the procedure to setup the virtual environment for this project<br>
 Step1: Navigate to your work folder<br>
       ```cd <your work directory>```<br>
 step2: setup virtual env<br>
-      ```py -3 -m venv venv```<br>
+      >```py -3 -m venv venv```<br>
 Then activate venv in the command prompt by entering-<br>
       ```venv\Scripts\activate.bat```<br>
       this will activate venv in your terminal.<br>
