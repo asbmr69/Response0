@@ -1,6 +1,6 @@
 from django.apps import AppConfig
 
 
-class DataRouterConfig(AppConfig):
+class EngineConfig(AppConfig):
     default_auto_field = 'django.db.models.BigAutoField'
-    name = 'data_router'
+    name = 'engine'
