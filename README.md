@@ -10,6 +10,7 @@ Then activate venv in the command prompt by entering-<br>
       this will activate venv in your terminal.<br>
 Now in venv install Django.<br>
       ``` pip install django```<br>
+      ```pip install psycopg2```<br>
     then navigate your terminal to ```\\src\response_search ``` folder.<br>
 Then to check your setup run the command-<br>
       ```python manage.py runserver```
